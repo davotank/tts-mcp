@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "local-tts": {
+      "command": "/absolute/path/to/tts-mcp/venv/bin/python",
+      "args": [
+        "/absolute/path/to/tts-mcp/server.py"
+      ]
+    }
+  }
+}

@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local MCP config that may contain machine-specific paths
+.mcp.local.json
